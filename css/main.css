@@ -1,0 +1,65 @@
+/* header */
+.logo{
+	width: 150px;
+	margin-left: 80px;
+}
+li{
+	list-style: none;
+}
+.lista{
+	text-decoration: none;
+	float: left;
+	color: #A7A5A5;
+	font-size: 20px;
+	margin-left: 60px;
+	margin-top: 50px;
+}
+/* fila 2 semilla */
+.semilla{
+	margin-bottom: -200px;
+}
+.gris{
+	position: absolute;
+	width: 100%;
+	background-color: #EBE6E6;
+	padding: 80px 290px;
+}
+.grisdos{
+	text-align: center;
+	color: gray;
+}
+/* fila 3 */
+.grande{
+	height: 150px;
+	margin-top: 250px;
+	margin-left: 225px;
+	margin-bottom: 15px;
+}
+.gran {
+	text-align: center;
+}
+.grandedos{
+	text-align: center;
+	margin: 10px 80px;
+}
+/* fila 4 */
+.director{
+	width: 105%;
+	height:400px;
+}
+.verde{
+	background-image: url(../img/fondo.jpg);
+	height: 400px;
+}
+.met{
+	margin-left: 260px;
+	margin-top: 80px;
+}
+h3{
+	padding-top: 60px;
+}
+.metp{
+	text-align: center;
+	color: white;
+	margin-bottom: 20px;
+}
