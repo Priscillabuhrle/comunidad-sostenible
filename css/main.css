@@ -25,6 +25,14 @@ header{
 	margin-top: -150px;
 	position: relative;
 	z-index: 1;
+	width: 102.3%;
+}
+.grisa{
+	position: absolute;
+	z-index: 2;
+	width: 92%;
+	background-color: #EBE6E6;
+	padding: 80px 290px;
 }
 .gris{
 	position: absolute;
@@ -223,4 +231,48 @@ h3{
 	width: 795px;
 	margin-left: -100px;
 }
+.reds{
+	float: left;
+	margin-right: 50px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.redsoci{
+	margin-top: 10px;
+}
+.ttt{
+	margin-left: 30px;
+}
+/*pie de pagina*/
+.piee{
+	height: 160px;
+	background-color: #C4C2C2;
+	margin-top: 360px;
+	width: 1215px;
+	margin-left: 1px;
+}
+.la{
+	margin-top: 60px;
+	color:#5A5757;
+	margin-left: 150px;
+}
+.laa{
+	color:#EDA238;
+	font-weight: 600;
+	margin-left: 150px;
+}
+.le{
+	color:#464343;
+	font-weight: 600;
+}
+.lee{
+	color:gray;
 
+}
+.fiin{
+	margin-top: 60px;
+}
+.box{
+	text-align: right;
+	margin-right: 150px;
+}
